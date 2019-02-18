@@ -1,2 +1,4 @@
 # hello-world
-这是Froth-zk的第一个存储库
+这是泡沫-ZK的第一个存储库
+
+使用GitHub来记录我的成长！
